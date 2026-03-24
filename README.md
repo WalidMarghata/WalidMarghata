@@ -13,8 +13,7 @@ Software Engineer especializado em **.NET / Angular**- Experiência com sistemas
 
 ### 📊 GitHub Stats
 <p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight" /></p> 
-
-PASSO 8 — LINKSMarkdown## Connect with me
+---
 <p align="center">  <a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="SEU_SITE"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a></p> 
 
 ### 🚀 Projetos em Destaque
