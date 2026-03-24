@@ -3,8 +3,7 @@
 
 ### Senior Software Engineer | .NET & Angular Specialist
 
-Engenheiro de Software Sênior especializado no ecossistema **.NET** e **Angular**. Com sólida experiência em sistemas corporativos de alta performance, foco em arquiteturas escaláveis, **Cloud (AWS/Azure)** e práticas de **DevOps**.
-
+Software Engineer especializado em **.NET / Angular**- Experiência com sistemas corporativos e alta performance- Foco em **Cloud, DevOps e Arquitetura**- Sempre evoluindo e construindo projetos reais- Mentalidade de crescimento e consistência
 ---
 ---
 
