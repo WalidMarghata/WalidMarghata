@@ -1,5 +1,11 @@
 <h1 align="center">Hi , I'm Walid Marghata</h1>
 <p align="center">  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;C%23+%7C+.NET+%7C+Angular;Cloud+%26+DevOps+Enthusiast;Always+building+something+cool" /></p>
+
+### Senior Software Engineer | .NET & Angular Specialist
+
+Engenheiro de Software Sênior especializado no ecossistema **.NET** e **Angular**. Com sólida experiência em sistemas corporativos de alta performance, foco em arquiteturas escaláveis, **Cloud (AWS/Azure)** e práticas de **DevOps**.
+
+---
 ---
 
 ### 🛠️ Tech Stack
