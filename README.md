@@ -8,5 +8,5 @@
 <p align="center">  <a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="SEU_SITE"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a></p> 
 
 
-— PROJETOS DESTACADOS (IMPORTANTE)Markdown## Featured Projects
+— PROJETOS DESTACADOS ## Featured Projects
 - Sistema de gestão em .NET + Angular  - APIs performáticas com C#  - Dashboard com dados em tempo real  - Automação de processos internos 
