@@ -24,7 +24,7 @@ Software Engineer especializado em **.NET / Angular**- Experiência com sistemas
 * **APIs Performáticas:** Desenvolvimento de APIs RESTful utilizando C# com foco em baixo tempo de resposta e alta disponibilidade.
 * **Automação de Processos:** Implementação de pipelines de CI/CD para otimização de deploys.
 
----
+
 
 ### 📫 Conecte-se Comigo
 
