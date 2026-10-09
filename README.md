@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Walid Marghata</h1>
+<h1 align="center">Hi , I'm Walid Marghata</h1>
 <p align="center">  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;C%23+%7C+.NET+%7C+Angular;Cloud+%26+DevOps+Enthusiast;Always+building+something+cool" /></p>
 <p align="center">  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Currículo Lattes"/></a></p>
 
