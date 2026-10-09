@@ -18,10 +18,9 @@ Software Engineer especializado em **.NET / Angular**.
 <p align="center">  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,ts,html,css,azure,aws,docker,git" /></p>
 
 
-### 📊 GitHub Stats
-<p align="center">  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight" />  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight" /></p>
+### 📊 Linguagens mais usadas
+<p align="center">  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight" /></p>
 
-<p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight" /></p> 
 
 ### 🚀 Projetos em Destaque
 
