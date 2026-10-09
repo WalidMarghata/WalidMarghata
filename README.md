@@ -31,6 +31,6 @@ Software Engineer especializado em **.NET / Angular**- Experiência com sistemas
 <p align="left">
 <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:seu-email@exemplo.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://orcid.org/0009-0009-1456-9242" target="_blank">
+<img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
 </p>
