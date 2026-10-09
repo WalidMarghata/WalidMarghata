@@ -19,9 +19,15 @@ Software Engineer especializado em **.NET / Angular**.
 
 
 ### 📊 GitHub Stats
-<p align="center">  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=14400&v=2" />  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&cache_seconds=14400&v=2" /></p>
+<p align="center">  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=14400&v=2" /></p>
 
 <p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&v=2" /></p>
+
+### 📈 Em números (Azure DevOps, jul/2025 a out/2026)
+
+* **498** commits de autoria própria em repositórios corporativos
+* **103** Pull Requests mergeados
+* Stack principal do trabalho: **C# / .NET**, **Angular** e **SQL Server**
 
 
 ### 🚀 Projetos em Destaque
