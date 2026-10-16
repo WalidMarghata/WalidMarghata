@@ -641,7 +641,7 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 </p>
 
 <details>
-<summary><b>🏅 145</b></summary>
+<summary><b>🏅 Show all badges (145)</b></summary>
 <br/>
 
 <p align="center">
@@ -796,7 +796,7 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 </p>
 
 <details>
-<summary><b>🏆 39</b></summary>
+<summary><b>🏆 Show all trophies (39)</b></summary>
 <br/>
 
 <p align="center">
