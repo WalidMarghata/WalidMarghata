@@ -63,6 +63,38 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
   </tr>
 </table>
 
+<img src="assets/titulo-academico.svg" width="100%" alt="Atuação acadêmica e pesquisa"/>
+
+<p align="center">
+  <img src="assets/pesquisa.svg" width="100%" alt="Linha de pesquisa: detecção de anomalias em sistemas distribuídos com aprendizado de máquina explicável (XAI)"/>
+</p>
+
+#### 🎓 Formação acadêmica
+
+<p align="center">
+  <img src="assets/formacao.svg" width="100%" alt="Formação: mestrado em Ciência da Computação (UFMG, em andamento), especialização em Engenharia de Software (2023 a 2024), graduação em Ciência da Computação (2020 a 2023) e em Análise e Desenvolvimento de Sistemas (2018 a 2020)"/>
+</p>
+
+#### 📄 Publicações
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/pub-1.svg" width="100%" alt="2021: Internet das Coisas e Visão Computacional, uma revisão da literatura. VII Seminário de Pesquisa e Extensão Internacional da Estácio BH"/></td>
+    <td width="50%"><img src="assets/pub-2.svg" width="100%" alt="2020: A perspectiva dos universitários da computação sobre aulas remotas síncronas durante a pandemia. VI Seminário de Pesquisa e Extensão da Estácio BH"/></td>
+  </tr>
+</table>
+
+#### 🌍 Idiomas
+
+<p align="center">
+  <img src="assets/idiomas.svg" width="100%" alt="Idiomas: português, árabe, francês e inglês, todos fluentes"/>
+</p>
+
+<p align="center">
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-Curr%C3%ADculo%20completo-1F4E79?style=for-the-badge" alt="Currículo Lattes completo"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
+</p>
+
 <img src="assets/titulo-aprendizado.svg" width="100%" alt="Aprendizado e certificações"/>
 
 <p align="center">
