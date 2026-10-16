@@ -16,14 +16,6 @@
 <a id="lang-pt"></a>
 
 <p align="center">
-  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
-  <a href="#user-content-lang-pt"><img src="assets/lang/pt-on.svg" height="46" alt="Português"/></a>
-  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
-  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
-  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
   <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes CV"/></a>
@@ -143,14 +135,6 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <summary><sub>العربية</sub></summary>
 
 <a id="lang-ar"></a>
-
-<p align="center">
-  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
-  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
-  <a href="#user-content-lang-ar"><img src="assets/lang/ar-on.svg" height="46" alt="العربية"/></a>
-  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
-  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -278,14 +262,6 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <a id="lang-fr"></a>
 
 <p align="center">
-  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
-  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
-  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
-  <a href="#user-content-lang-fr"><img src="assets/lang/fr-on.svg" height="46" alt="Français"/></a>
-  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
   <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes CV"/></a>
@@ -407,14 +383,6 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <a id="lang-ru"></a>
 
 <p align="center">
-  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
-  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
-  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
-  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
-  <a href="#user-content-lang-ru"><img src="assets/lang/ru-on.svg" height="46" alt="Русский"/></a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
   <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes CV"/></a>
@@ -534,14 +502,6 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <summary><sub>English</sub></summary>
 
 <a id="lang-en"></a>
-
-<p align="center">
-  <a href="#user-content-lang-en"><img src="assets/lang/en-on.svg" height="46" alt="English"/></a>
-  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
-  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
-  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
-  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
