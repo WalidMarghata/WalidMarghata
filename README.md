@@ -11,7 +11,7 @@
 </p>
 
 <details name="lang" open>
-<summary><sub>English</sub></summary>
+<summary>&nbsp;</summary>
 
 <a id="lang-en"></a>
 
@@ -132,7 +132,7 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 </details>
 
 <details name="lang">
-<summary><sub>Português</sub></summary>
+<summary>&nbsp;</summary>
 
 <a id="lang-pt"></a>
 
@@ -253,7 +253,7 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 </details>
 
 <details name="lang">
-<summary><sub>العربية</sub></summary>
+<summary>&nbsp;</summary>
 
 <a id="lang-ar"></a>
 
@@ -378,7 +378,7 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 </details>
 
 <details name="lang">
-<summary><sub>Français</sub></summary>
+<summary>&nbsp;</summary>
 
 <a id="lang-fr"></a>
 
@@ -499,7 +499,7 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 </details>
 
 <details name="lang">
-<summary><sub>Русский</sub></summary>
+<summary>&nbsp;</summary>
 
 <a id="lang-ru"></a>
 
