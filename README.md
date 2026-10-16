@@ -30,6 +30,12 @@ Software Engineer especializado em **.NET / Angular**.
 * Stack principal do trabalho: **C# / .NET**, **Angular** e **SQL Server**
 
 
+### 🎓 Aprendizado e certificações
+
+<p align="center">  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-N%C3%ADvel%206-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil no Microsoft Learn"/></a></p>
+
+* **Microsoft Learn:** nível **6**, **22** selos e **5** troféus conquistados em trilhas e módulos de formação técnica (dados de 15/10/2026). [Ver perfil](https://learn.microsoft.com/pt-br/users/walidmarghata-7262/)
+
 ### 🚀 Projetos em Destaque
 
 * **Sistema de Gestão Corporativa:** Arquitetura distribuída com .NET Core e Angular, focado em performance e escalabilidade.
