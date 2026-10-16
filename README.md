@@ -1,48 +1,102 @@
-<h1 align="center">Hi , I'm Walid Marghata</h1>
-<p align="center">  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;C%23+%7C+.NET+%7C+Angular;Cloud+%26+DevOps+Enthusiast;Always+building+something+cool" /></p>
-<p align="center">  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Currículo Lattes"/></a></p>
-
-### Senior Software Engineer | .NET & Angular Specialist
-
-Software Engineer especializado em **.NET / Angular**.
-
-* Experiência com sistemas corporativos e alta performance
-* Foco em **Cloud, DevOps e Arquitetura**
-* Sempre evoluindo e construindo projetos reais
-* Mentalidade de crescimento e consistência
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,ts,html,css,azure,aws,docker,git" /></p>
-
-
-### 📊 GitHub Stats
-<p align="center">  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=14400&v=2" />  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&cache_seconds=14400&v=2" /></p>
-
-<p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&v=2" /></p>
-
-### 📈 Em números (Azure DevOps, jul/2025 a out/2026)
-
-* **498** commits de autoria própria em repositórios corporativos
-* **103** Pull Requests mergeados
-* Stack principal do trabalho: **C# / .NET**, **Angular** e **SQL Server**
-
-
-### 🎓 Aprendizado e certificações
-
-<p align="center">  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-N%C3%ADvel%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil principal no Microsoft Learn: nível 12"/></a>  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-N%C3%ADvel%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Segundo perfil no Microsoft Learn: nível 6"/></a></p>
-
-#### 🏅 Selos
-
-<p align="center"><sub>Selos de módulos concluídos nos dois perfis (22 + 192 no painel do Learn). Abaixo, cada selo distinto.</sub></p>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Walid Marghata, Senior Software Engineer, .NET e Angular"/>
+</p>
 
 <p align="center">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/aspnetcore/create-a-web-ui-with-aspnet-core.svg" width="52" height="52" alt="Selo do Microsoft Learn: create a web ui with aspnet core" title="create a web ui with aspnet core"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/web-development-101-accessibility.svg" width="52" height="52" alt="Selo do Microsoft Learn: web development 101 accessibility" title="web development 101 accessibility"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/introduction-to-web-development.svg" width="52" height="52" alt="Selo do Microsoft Learn: introduction to web development" title="introduction to web development"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/csharp-write-first.svg" width="52" height="52" alt="Selo do Microsoft Learn: csharp write first" title="csharp write first"/>
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Currículo Lattes"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-N%C3%ADvel%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn, nível 12"/></a>
+</p>
+
+<img src="assets/titulo-sobre.svg" width="100%" alt="Sobre mim"/>
+
+Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo sistemas corporativos de alta performance. Trabalho de ponta a ponta, do banco de dados à interface, com atenção a **desempenho, confiabilidade e experiência de quem usa**. Gosto de entregar, medir e evoluir.
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>🏢 Sistemas corporativos</b><br/>Aplicações de negócio com regras complexas, integrações e muito dado.</td>
+    <td width="33%" valign="top"><b>☁️ Cloud, DevOps e arquitetura</b><br/>Pipelines, entregas contínuas e arquitetura pensada para escalar.</td>
+    <td width="33%" valign="top"><b>🌱 Aprendizado contínuo</b><br/>Trilhas e certificações da Microsoft e projetos reais para praticar.</td>
+  </tr>
+</table>
+
+<img src="assets/titulo-numeros.svg" width="100%" alt="Em números"/>
+
+<p align="center">
+  <img src="assets/kpis.svg" width="100%" alt="530 commits, 110 pull requests, 898 entregas em 2026 e 214 selos no Microsoft Learn"/>
+</p>
+
+<p align="center"><sub>Commits e pull requests de repositórios corporativos (Azure DevOps), de jul/2025 a out/2026. Entregas são itens concluídos no Azure Boards em 2026.</sub></p>
+
+<img src="assets/titulo-stack.svg" width="100%" alt="Tecnologias e ferramentas"/>
+
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Backend: C#, .NET, ASP.NET Core, Entity Framework. Frontend: Angular, TypeScript, Next.js. Dados: SQL Server, PostgreSQL, Power BI. Cloud e DevOps: Azure, Azure DevOps, Docker, Git."/>
+</p>
+
+<img src="assets/titulo-stats.svg" width="100%" alt="Estatísticas do GitHub"/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=14400&v=3" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400&v=3" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&v=3" alt="Sequência de contribuições"/>
+</p>
+
+<img src="assets/titulo-projetos.svg" width="100%" alt="Projetos em destaque"/>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/projeto-1.svg" width="100%" alt="Aplicativo de Horas Extras: autorização e aprovação por etapas, painel e uso offline"/></td>
+    <td width="50%"><img src="assets/projeto-2.svg" width="100%" alt="Portal de Comprovantes: leitura de PDFs bancários, busca por CNPJ e auditoria"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/projeto-3.svg" width="100%" alt="Plataforma de Gestão Corporativa em .NET e Angular"/></td>
+    <td width="50%"><img src="assets/projeto-4.svg" width="100%" alt="APIs de Alta Performance em C#"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/projeto-5.svg" width="100%" alt="Automação de Processos e Deploys com Azure DevOps"/></td>
+    <td width="50%"><img src="assets/projeto-6.svg" width="100%" alt="Indicadores e Business Intelligence com SQL e Power BI"/></td>
+  </tr>
+</table>
+
+<img src="assets/titulo-aprendizado.svg" width="100%" alt="Aprendizado e certificações"/>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-N%C3%ADvel%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil no Microsoft Learn, nível 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-N%C3%ADvel%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Segundo perfil no Microsoft Learn, nível 6"/></a>
+</p>
+
+<p align="center">
+  <b>214 selos</b> de módulos concluídos &nbsp;·&nbsp; <b>53 troféus</b> de roteiros de aprendizagem<br/>
+  <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, desenvolvimento web, C# e segurança, conformidade e identidade da Microsoft.</sub>
+</p>
+
+#### 🏅 Selos em destaque
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/csharp-write-first.svg" width="60" height="60" alt="Selo do Microsoft Learn: csharp write first" title="csharp write first"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/aspnetcore/create-a-web-ui-with-aspnet-core.svg" width="60" height="60" alt="Selo do Microsoft Learn: create a web ui with aspnet core" title="create a web ui with aspnet core"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/introduction-to-web-development.svg" width="60" height="60" alt="Selo do Microsoft Learn: introduction to web development" title="introduction to web development"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/web-development-101-accessibility.svg" width="60" height="60" alt="Selo do Microsoft Learn: web development 101 accessibility" title="web development 101 accessibility"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-security-concepts-and-methodologies.svg" width="60" height="60" alt="Selo do Microsoft Learn: describe security concepts and methodologies" title="describe security concepts and methodologies"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-identity-principles-and-concepts.svg" width="60" height="60" alt="Selo do Microsoft Learn: describe identity principles and concepts" title="describe identity principles and concepts"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-basic-security-capabilities-in-azure.svg" width="60" height="60" alt="Selo do Microsoft Learn: describe basic security capabilities in azure" title="describe basic security capabilities in azure"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/power-platform-module.svg" width="60" height="60" alt="Selo do Microsoft Learn: power platform module" title="power platform module"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/power-automate-module.svg" width="60" height="60" alt="Selo do Microsoft Learn: power automate module" title="power automate module"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" width="60" height="60" alt="Selo do Microsoft Learn: get started power bi" title="get started power bi"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/pad-first-steps.svg" width="60" height="60" alt="Selo do Microsoft Learn: pad first steps" title="pad first steps"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-ai-builder.svg" width="60" height="60" alt="Selo do Microsoft Learn: get started with ai builder" title="get started with ai builder"/>
+</p>
+
+<details>
+<summary><b>Ver todos os selos</b> (145 distintos)</summary>
+<br/>
+
+<p align="center">
   <img src="https://learn.microsoft.com/en-us/training/achievements/change-properties.svg" width="52" height="52" alt="Selo do Microsoft Learn: change properties" title="change properties"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-powerapps.svg" width="52" height="52" alt="Selo do Microsoft Learn: get started with powerapps" title="get started with powerapps"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-the-ediscovery-capabilities-of-microsoft-365.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe the ediscovery capabilities of microsoft 365" title="describe the ediscovery capabilities of microsoft 365"/>
@@ -53,20 +107,15 @@ Software Engineer especializado em **.NET / Angular**.
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-threat-protection-with-microsoft-365-defender.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe threat protection with microsoft 365 defender" title="describe threat protection with microsoft 365 defender"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-security-capabilities-of-azure-sentinel.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe security capabilities of azure sentinel" title="describe security capabilities of azure sentinel"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-security-management-capabilities-of-azure.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe security management capabilities of azure" title="describe security management capabilities of azure"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-basic-security-capabilities-in-azure.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe basic security capabilities in azure" title="describe basic security capabilities in azure"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-identity-protection-governance-capabilities-azure-ad.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe identity protection governance capabilities azure ad" title="describe identity protection governance capabilities azure ad"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/explore-the-access-management-capabilities-of-azure-ad.svg" width="52" height="52" alt="Selo do Microsoft Learn: explore the access management capabilities of azure ad" title="explore the access management capabilities of azure ad"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/explore-the-authentication-capabilities-of-azure-ad.svg" width="52" height="52" alt="Selo do Microsoft Learn: explore the authentication capabilities of azure ad" title="explore the authentication capabilities of azure ad"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/explore-basic-services-identity-types-azure-active-directory.svg" width="52" height="52" alt="Selo do Microsoft Learn: explore basic services identity types azure active directory" title="explore basic services identity types azure active directory"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-identity-principles-and-concepts.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe identity principles and concepts" title="describe identity principles and concepts"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-security-concepts-and-methodologies.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe security concepts and methodologies" title="describe security concepts and methodologies"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-the-capabilities-of-microsoft-compliance-solutions.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe the capabilities of microsoft compliance solutions" title="describe the capabilities of microsoft compliance solutions"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/enhance-productivity.svg" width="52" height="52" alt="Selo do Microsoft Learn: enhance productivity" title="enhance productivity"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/enhance-communication.svg" width="52" height="52" alt="Selo do Microsoft Learn: enhance communication" title="enhance communication"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="52" height="52" alt="Selo do Microsoft Learn: generic badge" title="generic badge"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-microsoft-power-platform-administration-governance.svg" width="52" height="52" alt="Selo do Microsoft Learn: describe microsoft power platform administration governance" title="describe microsoft power platform administration governance"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/power-platform-module.svg" width="52" height="52" alt="Selo do Microsoft Learn: power platform module" title="power platform module"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/power-automate-module.svg" width="52" height="52" alt="Selo do Microsoft Learn: power automate module" title="power automate module"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/introduction-power-platform-developer-resources.svg" width="52" height="52" alt="Selo do Microsoft Learn: introduction power platform developer resources" title="introduction power platform developer resources"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/use-services-model-driven-apps.svg" width="52" height="52" alt="Selo do Microsoft Learn: use services model driven apps" title="use services model driven apps"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-sales-mobile-app.svg" width="52" height="52" alt="Selo do Microsoft Learn: get started sales mobile app" title="get started sales mobile app"/>
@@ -126,7 +175,6 @@ Software Engineer especializado em **.NET / Angular**.
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-system-services-actions.svg" width="52" height="52" alt="Selo do Microsoft Learn: pad system services actions" title="pad system services actions"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-ui-automation.svg" width="52" height="52" alt="Selo do Microsoft Learn: pad ui automation" title="pad ui automation"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-email.svg" width="52" height="52" alt="Selo do Microsoft Learn: pad email" title="pad email"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-ai-builder.svg" width="52" height="52" alt="Selo do Microsoft Learn: get started with ai builder" title="get started with ai builder"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/ai-builder-prediction.svg" width="52" height="52" alt="Selo do Microsoft Learn: ai builder prediction" title="ai builder prediction"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/use-ai-builder.svg" width="52" height="52" alt="Selo do Microsoft Learn: use ai builder" title="use ai builder"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-builder-document-automation.svg" width="52" height="52" alt="Selo do Microsoft Learn: get started ai builder document automation" title="get started ai builder document automation"/>
@@ -149,7 +197,6 @@ Software Engineer especializado em **.NET / Angular**.
   <img src="https://learn.microsoft.com/en-us/training/achievements/choose-power-bi-model-framework.svg" width="52" height="52" alt="Selo do Microsoft Learn: choose power bi model framework" title="choose power bi model framework"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/clean-transform-and-load-data-in-power-bi.svg" width="52" height="52" alt="Selo do Microsoft Learn: clean transform and load data in power bi" title="clean transform and load data in power bi"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-data.svg" width="52" height="52" alt="Selo do Microsoft Learn: get data" title="get data"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" width="52" height="52" alt="Selo do Microsoft Learn: get started power bi" title="get started power bi"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-scripting.svg" width="52" height="52" alt="Selo do Microsoft Learn: pad scripting" title="pad scripting"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-exception-handling.svg" width="52" height="52" alt="Selo do Microsoft Learn: pad exception handling" title="pad exception handling"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-power-automate-desktop-recording-features.svg" width="52" height="52" alt="Selo do Microsoft Learn: pad power automate desktop recording features" title="pad power automate desktop recording features"/>
@@ -168,7 +215,6 @@ Software Engineer especializado em **.NET / Angular**.
   <img src="https://learn.microsoft.com/en-us/training/achievements/integrate-flow-outlook.svg" width="52" height="52" alt="Selo do Microsoft Learn: integrate flow outlook" title="integrate flow outlook"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-power-automate-desktop-development-essentials.svg" width="52" height="52" alt="Selo do Microsoft Learn: pad power automate desktop development essentials" title="pad power automate desktop development essentials"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/input-parameters.svg" width="52" height="52" alt="Selo do Microsoft Learn: input parameters" title="input parameters"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/pad-first-steps.svg" width="52" height="52" alt="Selo do Microsoft Learn: pad first steps" title="pad first steps"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/introduction-expressions.svg" width="52" height="52" alt="Selo do Microsoft Learn: introduction expressions" title="introduction expressions"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/ai-builder-power-automate.svg" width="52" height="52" alt="Selo do Microsoft Learn: ai builder power automate" title="ai builder power automate"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/administer-flows.svg" width="52" height="52" alt="Selo do Microsoft Learn: administer flows" title="administer flows"/>
@@ -186,24 +232,35 @@ Software Engineer especializado em **.NET / Angular**.
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-flow.svg" width="52" height="52" alt="Selo do Microsoft Learn: get started with flow" title="get started with flow"/>
 </p>
 
-#### 🏆 Troféus
+</details>
 
-<p align="center"><sub>Troféus de roteiros de aprendizagem concluídos nos dois perfis (5 + 48 no painel do Learn). Abaixo, cada troféu distinto.</sub></p>
+#### 🏆 Troféus em destaque
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-the-concepts-of-security-compliance-and-identity.svg" width="72" height="72" alt="Troféu do Microsoft Learn: describe the concepts of security compliance and identity" title="describe the concepts of security compliance and identity"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-365-security-and-compliance-capabilities.svg" width="72" height="72" alt="Troféu do Microsoft Learn: microsoft 365 security and compliance capabilities" title="microsoft 365 security and compliance capabilities"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/power-platform-learning-path.svg" width="72" height="72" alt="Troféu do Microsoft Learn: power platform learning path" title="power platform learning path"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/power-automate-learning-path.svg" width="72" height="72" alt="Troféu do Microsoft Learn: power automate learning path" title="power automate learning path"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/copilot-solutions.svg" width="72" height="72" alt="Troféu do Microsoft Learn: copilot solutions" title="copilot solutions"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/design-dynamics-365-solutions.svg" width="72" height="72" alt="Troféu do Microsoft Learn: design dynamics 365 solutions" title="design dynamics 365 solutions"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/overview-data-analysis-power-bi.svg" width="72" height="72" alt="Troféu do Microsoft Learn: overview data analysis power bi" title="overview data analysis power bi"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/pad-build-expertise.svg" width="72" height="72" alt="Troféu do Microsoft Learn: pad build expertise" title="pad build expertise"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/solution-architect-design.svg" width="72" height="72" alt="Troféu do Microsoft Learn: solution architect design" title="solution architect design"/>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/build-custom-connectors.svg" width="72" height="72" alt="Troféu do Microsoft Learn: build custom connectors" title="build custom connectors"/>
+</p>
+
+<details>
+<summary><b>Ver todos os troféus</b> (39 distintos)</summary>
+<br/>
 
 <p align="center">
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-the-capabilities-of-microsoft-compliance-solutions.svg" width="64" height="64" alt="Troféu do Microsoft Learn: describe the capabilities of microsoft compliance solutions" title="describe the capabilities of microsoft compliance solutions"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-365-security-and-compliance-capabilities.svg" width="64" height="64" alt="Troféu do Microsoft Learn: microsoft 365 security and compliance capabilities" title="microsoft 365 security and compliance capabilities"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-the-capabilities-of-microsoft-security-solutions.svg" width="64" height="64" alt="Troféu do Microsoft Learn: describe the capabilities of microsoft security solutions" title="describe the capabilities of microsoft security solutions"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-capabilities-of-microsoft-identity-access-management-solutions.svg" width="64" height="64" alt="Troféu do Microsoft Learn: describe capabilities of microsoft identity access management solutions" title="describe capabilities of microsoft identity access management solutions"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-the-concepts-of-security-compliance-and-identity.svg" width="64" height="64" alt="Troféu do Microsoft Learn: describe the concepts of security compliance and identity" title="describe the concepts of security compliance and identity"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" width="64" height="64" alt="Troféu do Microsoft Learn: generic trophy" title="generic trophy"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/power-platform-learning-path.svg" width="64" height="64" alt="Troféu do Microsoft Learn: power platform learning path" title="power platform learning path"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/power-automate-learning-path.svg" width="64" height="64" alt="Troféu do Microsoft Learn: power automate learning path" title="power automate learning path"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/enhance-tools-apps-sales.svg" width="64" height="64" alt="Troféu do Microsoft Learn: enhance tools apps sales" title="enhance tools apps sales"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/improve-business-performance-ai-builder.svg" width="64" height="64" alt="Troféu do Microsoft Learn: improve business performance ai builder" title="improve business performance ai builder"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/copilot-solutions.svg" width="64" height="64" alt="Troféu do Microsoft Learn: copilot solutions" title="copilot solutions"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/copilot-power-platform.svg" width="64" height="64" alt="Troféu do Microsoft Learn: copilot power platform" title="copilot power platform"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/design-dynamics-365-solutions.svg" width="64" height="64" alt="Troféu do Microsoft Learn: design dynamics 365 solutions" title="design dynamics 365 solutions"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/bring-ai-to-your-business-with-ai-builder.svg" width="64" height="64" alt="Troféu do Microsoft Learn: bring ai to your business with ai builder" title="bring ai to your business with ai builder"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/implement-dynamics-365-projects.svg" width="64" height="64" alt="Troféu do Microsoft Learn: implement dynamics 365 projects" title="implement dynamics 365 projects"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/robotic-process-automation-online-workshop.svg" width="64" height="64" alt="Troféu do Microsoft Learn: robotic process automation online workshop" title="robotic process automation online workshop"/>
@@ -211,8 +268,6 @@ Software Engineer especializado em **.NET / Angular**.
   <img src="https://learn.microsoft.com/en-us/training/achievements/best-practices-environments.svg" width="64" height="64" alt="Troféu do Microsoft Learn: best practices environments" title="best practices environments"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/power-platform-introduction.svg" width="64" height="64" alt="Troféu do Microsoft Learn: power platform introduction" title="power platform introduction"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/validate-power-platform-functional-consultant-skills.svg" width="64" height="64" alt="Troféu do Microsoft Learn: validate power platform functional consultant skills" title="validate power platform functional consultant skills"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/pad-build-expertise.svg" width="64" height="64" alt="Troféu do Microsoft Learn: pad build expertise" title="pad build expertise"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/solution-architect-design.svg" width="64" height="64" alt="Troféu do Microsoft Learn: solution architect design" title="solution architect design"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/learn-fundamentals-dynamics-365-projects.svg" width="64" height="64" alt="Troféu do Microsoft Learn: learn fundamentals dynamics 365 projects" title="learn fundamentals dynamics 365 projects"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/power-virtual-agents-enhance.svg" width="64" height="64" alt="Troféu do Microsoft Learn: power virtual agents enhance" title="power virtual agents enhance"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/power-apps-online-workshop.svg" width="64" height="64" alt="Troféu do Microsoft Learn: power apps online workshop" title="power apps online workshop"/>
@@ -221,8 +276,6 @@ Software Engineer especializado em **.NET / Angular**.
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-work-different-technologies.svg" width="64" height="64" alt="Troféu do Microsoft Learn: pad work different technologies" title="pad work different technologies"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/integrate-dataverse-power-automate.svg" width="64" height="64" alt="Troféu do Microsoft Learn: integrate dataverse power automate" title="integrate dataverse power automate"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/integrate-power-automate.svg" width="64" height="64" alt="Troféu do Microsoft Learn: integrate power automate" title="integrate power automate"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/build-custom-connectors.svg" width="64" height="64" alt="Troféu do Microsoft Learn: build custom connectors" title="build custom connectors"/>
-  <img src="https://learn.microsoft.com/en-us/training/achievements/overview-data-analysis-power-bi.svg" width="64" height="64" alt="Troféu do Microsoft Learn: overview data analysis power bi" title="overview data analysis power bi"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/data-preparation-in-power-bi.svg" width="64" height="64" alt="Troféu do Microsoft Learn: data preparation in power bi" title="data preparation in power bi"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/create-and-manage-automated-processes-by-using-power-automate.svg" width="64" height="64" alt="Troféu do Microsoft Learn: create and manage automated processes by using power automate" title="create and manage automated processes by using power automate"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/pad-work.svg" width="64" height="64" alt="Troféu do Microsoft Learn: pad work" title="pad work"/>
@@ -232,25 +285,18 @@ Software Engineer especializado em **.NET / Angular**.
   <img src="https://learn.microsoft.com/en-us/training/achievements/work-power-platform-teams.svg" width="64" height="64" alt="Troféu do Microsoft Learn: work power platform teams" title="work power platform teams"/>
 </p>
 
-* **Perfil com Power Platform, Power Automate, Dynamics 365, Copilot e Power BI:** nível **12**, **192** selos e **48** troféus. Conclusões anteriores, registradas nessa conta em 29/06/2026. [Ver perfil](https://learn.microsoft.com/pt-br/users/walidmarghata-0755/)
-* **Perfil com desenvolvimento web, C# e segurança, conformidade e identidade da Microsoft:** nível **6**, **22** selos e **5** troféus. [Ver perfil](https://learn.microsoft.com/pt-br/users/walidmarghata-7262/)
-* Números do Learn de 15/10/2026.
+</details>
 
-### 🚀 Projetos em Destaque
+<sub>Perfil com Power Platform, Dynamics 365 e Power BI: nível 12, 192 selos e 48 troféus, conclusões anteriores registradas nessa conta em 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">ver</a>). Perfil com desenvolvimento web, C# e segurança: nível 6, 22 selos e 5 troféus (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">ver</a>). Números de 15/10/2026.</sub>
 
-* **Sistema de Gestão Corporativa:** Arquitetura distribuída com .NET Core e Angular, focado em performance e escalabilidade.
-* **APIs Performáticas:** Desenvolvimento de APIs RESTful utilizando C# com foco em baixo tempo de resposta e alta disponibilidade.
-* **Automação de Processos:** Implementação de pipelines de CI/CD para otimização de deploys.
+<img src="assets/titulo-contato.svg" width="100%" alt="Vamos conversar"/>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Pesquisa-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-Currículo-1F4E79?style=for-the-badge" alt="Lattes"/></a>
+</p>
 
-
-### 📫 Conecte-se Comigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://orcid.org/0009-0009-1456-9242" target="_blank">
-<img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
-<a href="https://lattes.cnpq.br/7568694202686117" target="_blank">
-<img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" target="_blank"></a>
+<p align="center">
+  <img src="assets/rodape.svg" width="100%" alt="Obrigado pela visita"/>
 </p>
