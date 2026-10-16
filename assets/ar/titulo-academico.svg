@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-label="النشاط الأكاديمي والبحث">
+  <title>النشاط الأكاديمي والبحث</title>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <linearGradient id="l" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+    <style>text{letter-spacing:0 !important}.t{font:700 22px 'Segoe UI', Tahoma, 'Noto Sans Arabic', 'Noto Naskh Arabic', Arial, sans-serif;fill:#f8fafc;letter-spacing:.2px}</style>
+  </defs>
+  <rect x="661" y="12" width="337" height="40" rx="20" fill="#0b1220"/>
+  <rect x="661" y="12" width="337" height="40" rx="20" fill="none" stroke="url(#a)" stroke-width="1.6"/>
+  <circle cx="974" cy="32" r="15" fill="url(#a)"/>
+  <g transform="translate(962.5 20.5) scale(.96)"><path d="M9 3h6M10 3v6L4.5 19a2 2 0 0 0 1.8 3h11.4a2 2 0 0 0 1.8-3L14 9V3M7.5 15h9" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="948" y="39.5" class="t" direction="rtl">النشاط الأكاديمي والبحث</text>
+  <rect x="4" y="31" width="643" height="2.4" rx="1.2" fill="url(#l)"><animate attributeName="opacity" values="0.55;1;0.55" dur="5s" repeatCount="indefinite"/></rect>
+</svg>

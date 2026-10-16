@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="196" viewBox="0 0 1000 196" role="img" aria-label="Détection d'anomalies dans les systèmes distribués par apprentissage automatique explicable">
+  <title>AXE DE RECHERCHE</title>
+  <defs>
+    <linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <radialGradient id="brilho"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.45"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="1000" height="196" rx="20"/></clipPath>
+    <style>.k{font:700 12px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;letter-spacing:3px;fill:#22d3ee}.t{font:800 26px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#f8fafc;letter-spacing:-.3px}.d{font:500 14.5px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#b6c2da}.tg{font:700 12px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#ede9fe}</style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="196" fill="#0d1428"/>
+    <circle cx="900" cy="30" r="170" fill="url(#brilho)"><animate attributeName="cx" values="900;840;900" dur="10s" repeatCount="indefinite"/></circle>
+    <g opacity="0.55" stroke="#22d3ee" stroke-width="1.2" fill="none">
+      <circle cx="870" cy="95" r="6" fill="#22d3ee" stroke="none"/><circle cx="930" cy="55" r="5" fill="#a78bfa" stroke="none"/><circle cx="940" cy="130" r="5" fill="#f472b6" stroke="none"/><circle cx="820" cy="140" r="4" fill="#a78bfa" stroke="none"/>
+      <path d="M870 95L930 55M870 95L940 130M870 95L820 140M930 55L940 130"/>
+      <circle cx="870" cy="95" r="12"><animate attributeName="r" values="8;18;8" dur="3.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0;0.7" dur="3.5s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+  <rect width="1000" height="196" rx="20" fill="none" stroke="url(#p)" stroke-opacity="0.75" stroke-width="1.4"/>
+  <text x="34" y="44" class="k">AXE DE RECHERCHE</text>
+  <text x="34" y="82" class="t">Détection d'anomalies dans les systèmes distribués</text>
+  <text x="34" y="110" class="t" style="fill:url(#p)">par apprentissage automatique explicable</text>
+  <text x="34" y="134" class="d">Projet de recherche pour un master en informatique</text>
+  <g transform="translate(34 148)"><rect width="173" height="30" rx="15" fill="#a78bfa" fill-opacity="0.16" stroke="#a78bfa" stroke-opacity="0.65"/><text x="86.5" y="20" text-anchor="middle" class="tg">Systèmes distribués</text></g><g transform="translate(217 148)"><rect width="218" height="30" rx="15" fill="#a78bfa" fill-opacity="0.16" stroke="#a78bfa" stroke-opacity="0.65"/><text x="109" y="20" text-anchor="middle" class="tg">Apprentissage automatique</text></g><g transform="translate(445 148)"><rect width="173" height="30" rx="15" fill="#a78bfa" fill-opacity="0.16" stroke="#a78bfa" stroke-opacity="0.65"/><text x="86.5" y="20" text-anchor="middle" class="tg">IA explicable (XAI)</text></g><g transform="translate(628 148)"><rect width="188" height="30" rx="15" fill="#a78bfa" fill-opacity="0.16" stroke="#a78bfa" stroke-opacity="0.65"/><text x="94" y="20" text-anchor="middle" class="tg">Détection d'anomalies</text></g>
+</svg>

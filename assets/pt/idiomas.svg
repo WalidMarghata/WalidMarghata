@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="🌍 Idiomas">
+  <title>🌍 Idiomas</title>
+  <style>.n{font:700 15px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#f1f5f9}.l{font:500 12px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#94a3b8}</style>
+  <g transform="translate(0.0 0)"><rect width="241.0" height="56" rx="14" fill="#0d1428"/><rect width="241.0" height="56" rx="14" fill="none" stroke="#22d3ee" stroke-opacity="0.6"/><circle cx="26" cy="28" r="6" fill="#22d3ee"/><text x="46" y="25" class="n">Português</text><text x="46" y="43" class="l">Fluente</text></g>
+  <g transform="translate(253.0 0)"><rect width="241.0" height="56" rx="14" fill="#0d1428"/><rect width="241.0" height="56" rx="14" fill="none" stroke="#a78bfa" stroke-opacity="0.6"/><circle cx="26" cy="28" r="6" fill="#a78bfa"/><text x="46" y="25" class="n">Árabe</text><text x="46" y="43" class="l">Fluente</text></g>
+  <g transform="translate(506.0 0)"><rect width="241.0" height="56" rx="14" fill="#0d1428"/><rect width="241.0" height="56" rx="14" fill="none" stroke="#f472b6" stroke-opacity="0.6"/><circle cx="26" cy="28" r="6" fill="#f472b6"/><text x="46" y="25" class="n">Francês</text><text x="46" y="43" class="l">Fluente</text></g>
+  <g transform="translate(759.0 0)"><rect width="241.0" height="56" rx="14" fill="#0d1428"/><rect width="241.0" height="56" rx="14" fill="none" stroke="#fb923c" stroke-opacity="0.6"/><circle cx="26" cy="28" r="6" fill="#fb923c"/><text x="46" y="25" class="n">Inglês</text><text x="46" y="43" class="l">Fluente</text></g>
+</svg>
