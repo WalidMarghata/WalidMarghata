@@ -2,10 +2,26 @@
   <img src="assets/en/banner.svg" width="100%" alt="Walid Marghata, Senior Software Engineer"/>
 </p>
 
-<p align="center"><sub>🌐 &nbsp;Language &nbsp;·&nbsp; Idioma &nbsp;·&nbsp; اللغة &nbsp;·&nbsp; Langue &nbsp;·&nbsp; Язык</sub></p>
+<p align="center">
+  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
+  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
+  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
+  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
+  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
+</p>
 
 <details name="lang">
-<summary><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></summary>
+<summary><sub>Português</sub></summary>
+
+<a id="lang-pt"></a>
+
+<p align="center">
+  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
+  <a href="#user-content-lang-pt"><img src="assets/lang/pt-on.svg" height="46" alt="Português"/></a>
+  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
+  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
+  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -124,7 +140,17 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 </details>
 
 <details name="lang">
-<summary><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></summary>
+<summary><sub>العربية</sub></summary>
+
+<a id="lang-ar"></a>
+
+<p align="center">
+  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
+  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
+  <a href="#user-content-lang-ar"><img src="assets/lang/ar-on.svg" height="46" alt="العربية"/></a>
+  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
+  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -247,7 +273,17 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 </details>
 
 <details name="lang">
-<summary><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></summary>
+<summary><sub>Français</sub></summary>
+
+<a id="lang-fr"></a>
+
+<p align="center">
+  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
+  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
+  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
+  <a href="#user-content-lang-fr"><img src="assets/lang/fr-on.svg" height="46" alt="Français"/></a>
+  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -366,7 +402,17 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 </details>
 
 <details name="lang">
-<summary><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></summary>
+<summary><sub>Русский</sub></summary>
+
+<a id="lang-ru"></a>
+
+<p align="center">
+  <a href="#user-content-lang-en"><img src="assets/lang/en-off.svg" height="46" alt="English"/></a>
+  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
+  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
+  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
+  <a href="#user-content-lang-ru"><img src="assets/lang/ru-on.svg" height="46" alt="Русский"/></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -485,7 +531,17 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 </details>
 
 <details name="lang" open>
-<summary><img src="assets/lang/en-on.svg" height="46" alt="English"/></summary>
+<summary><sub>English</sub></summary>
+
+<a id="lang-en"></a>
+
+<p align="center">
+  <a href="#user-content-lang-en"><img src="assets/lang/en-on.svg" height="46" alt="English"/></a>
+  <a href="#user-content-lang-pt"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
+  <a href="#user-content-lang-ar"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
+  <a href="#user-content-lang-fr"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
+  <a href="#user-content-lang-ru"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
