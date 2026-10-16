@@ -117,17 +117,6 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 
 <sub>Profile with Power Platform, Dynamics 365 and Power BI: level 12, 192 badges and 48 trophies, earlier completions registered on that account on 29 Jun 2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">view</a>). Profile with web development, C# and security: level 6, 22 badges and 5 trophies (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">view</a>). Figures as of 15 Oct 2026.</sub>
 
-<img src="assets/en/titulo-contato.svg" width="100%" alt="Let's talk"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
-</p>
-
-<p align="center">
-  <img src="assets/en/rodape.svg" width="100%" alt="Thanks for visiting · let's build something together"/>
-</p>
 
 </details>
 
@@ -238,17 +227,6 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 
 <sub>Perfil com Power Platform, Dynamics 365 e Power BI: nível 12, 192 selos e 48 troféus, conclusões anteriores registradas nessa conta em 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">ver</a>). Perfil com desenvolvimento web, C# e segurança: nível 6, 22 selos e 5 troféus (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">ver</a>). Números de 15/10/2026.</sub>
 
-<img src="assets/pt/titulo-contato.svg" width="100%" alt="Vamos conversar"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
-</p>
-
-<p align="center">
-  <img src="assets/pt/rodape.svg" width="100%" alt="Obrigado pela visita · vamos construir algo juntos"/>
-</p>
 
 </details>
 
@@ -361,19 +339,8 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 
 <sub>الملف الذي يضم Power Platform وDynamics 365 وPower BI: المستوى 12 و192 شارة و48 كأسًا، وقد سُجّلت الإنجازات السابقة في هذا الحساب بتاريخ 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">عرض</a>). الملف الذي يضم تطوير الويب وC# والأمن: المستوى 6 و22 شارة و5 كؤوس (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">عرض</a>). الأرقام بتاريخ 15/10/2026.</sub>
 
-<img src="assets/ar/titulo-contato.svg" width="100%" alt="لنتحدث"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
-</p>
 
 </div>
-
-<p align="center">
-  <img src="assets/ar/rodape.svg" width="100%" alt="شكرًا على الزيارة · لنبنِ شيئًا معًا"/>
-</p>
 
 </details>
 
@@ -484,17 +451,6 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 
 <sub>Profil avec Power Platform, Dynamics 365 et Power BI : niveau 12, 192 badges et 48 trophées, réalisations antérieures enregistrées sur ce compte le 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">voir</a>). Profil avec développement web, C# et sécurité : niveau 6, 22 badges et 5 trophées (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">voir</a>). Chiffres au 15/10/2026.</sub>
 
-<img src="assets/fr/titulo-contato.svg" width="100%" alt="Échangeons"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
-</p>
-
-<p align="center">
-  <img src="assets/fr/rodape.svg" width="100%" alt="Merci de votre visite · construisons quelque chose ensemble"/>
-</p>
 
 </details>
 
@@ -605,17 +561,6 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 
 <sub>Профиль с Power Platform, Dynamics 365 и Power BI: уровень 12, 192 значка и 48 трофеев, ранее пройденные курсы зарегистрированы в этом аккаунте 29.06.2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">открыть</a>). Профиль с веб-разработкой, C# и безопасностью: уровень 6, 22 значка и 5 трофеев (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">открыть</a>). Данные на 15.10.2026.</sub>
 
-<img src="assets/ru/titulo-contato.svg" width="100%" alt="Давайте поговорим"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
-</p>
-
-<p align="center">
-  <img src="assets/ru/rodape.svg" width="100%" alt="Спасибо за визит · давайте создадим что-нибудь вместе"/>
-</p>
 
 </details>
 
@@ -832,3 +777,15 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 </p>
 
 </details>
+
+<img src="assets/en/titulo-contato.svg" width="100%" alt="Let's talk"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/en/rodape.svg" width="100%" alt="Thanks for visiting · let's build something together"/>
+</p>
