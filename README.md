@@ -2,13 +2,490 @@
   <img src="assets/en/banner.svg" width="100%" alt="Walid Marghata, Senior Software Engineer"/>
 </p>
 
+<p align="center"><sub>🌐 &nbsp;Language &nbsp;·&nbsp; Idioma &nbsp;·&nbsp; اللغة &nbsp;·&nbsp; Langue &nbsp;·&nbsp; Язык</sub></p>
+
+<details name="lang">
+<summary><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></summary>
+
 <p align="center">
-  <img src="assets/lang/en-on.svg" height="46" alt="English"/>
-  <a href="https://github.com/WalidMarghata/WalidMarghata/blob/main/README.pt-BR.md"><img src="assets/lang/pt-off.svg" height="46" alt="Português"/></a>
-  <a href="https://github.com/WalidMarghata/WalidMarghata/blob/main/README.ar.md"><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></a>
-  <a href="https://github.com/WalidMarghata/WalidMarghata/blob/main/README.fr.md"><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></a>
-  <a href="https://github.com/WalidMarghata/WalidMarghata/blob/main/README.ru.md"><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></a>
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes CV"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Nível%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil no Microsoft Learn, Nível 12"/></a>
 </p>
+
+<img src="assets/pt/titulo-sobre.svg" width="100%" alt="Sobre mim"/>
+
+Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo sistemas corporativos de alta performance. Trabalho de ponta a ponta, do banco de dados à interface, com atenção a **desempenho, confiabilidade e experiência de quem usa**. Gosto de entregar, medir e evoluir.
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>🏢 Sistemas corporativos</b><br/>Aplicações de negócio com regras complexas, integrações e muito dado.</td>
+    <td width="33%" valign="top"><b>☁️ Cloud, DevOps e arquitetura</b><br/>Pipelines, entregas contínuas e arquitetura pensada para escalar.</td>
+    <td width="33%" valign="top"><b>🌱 Aprendizado contínuo</b><br/>Trilhas e certificações da Microsoft e projetos reais para praticar.</td>
+  </tr>
+</table>
+
+<img src="assets/pt/titulo-numeros.svg" width="100%" alt="Em números"/>
+
+<p align="center">
+  <img src="assets/pt/kpis.svg" width="100%" alt="530 commits, 110 pull requests, 898 entregas em 2026 e 214 selos no Microsoft Learn"/>
+</p>
+
+<p align="center"><sub>Commits e pull requests de repositórios corporativos (Azure DevOps), de jul/2025 a out/2026. Entregas são itens concluídos no Azure Boards em 2026.</sub></p>
+
+<img src="assets/pt/titulo-stack.svg" width="100%" alt="Tecnologias e ferramentas"/>
+
+<p align="center">
+  <img src="assets/pt/stack.svg" width="100%" alt="Tecnologias e ferramentas"/>
+</p>
+
+<img src="assets/pt/titulo-stats.svg" width="100%" alt="Estatísticas do GitHub"/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&cache_seconds=14400&v=4" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=14400&v=4" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=pt_BR&v=4" alt="Contribution streak"/>
+</p>
+
+<img src="assets/pt/titulo-projetos.svg" width="100%" alt="Projetos em destaque"/>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/pt/projeto-1.svg" width="100%" alt="Aplicativo de Horas Extras"/></td>
+    <td width="50%"><img src="assets/pt/projeto-2.svg" width="100%" alt="Portal de Comprovantes"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/pt/projeto-3.svg" width="100%" alt="Plataforma de Gestão Corporativa"/></td>
+    <td width="50%"><img src="assets/pt/projeto-4.svg" width="100%" alt="APIs de Alta Performance"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/pt/projeto-5.svg" width="100%" alt="Automação de Processos e Deploys"/></td>
+    <td width="50%"><img src="assets/pt/projeto-6.svg" width="100%" alt="Indicadores e Business Intelligence"/></td>
+  </tr>
+</table>
+
+<img src="assets/pt/titulo-academico.svg" width="100%" alt="Atuação acadêmica e pesquisa"/>
+
+<p align="center">
+  <img src="assets/pt/pesquisa.svg" width="100%" alt="Detecção de anomalias em sistemas distribuídos com aprendizado de máquina explicável"/>
+</p>
+
+#### 🎓 Formação acadêmica
+
+<p align="center">
+  <img src="assets/pt/formacao.svg" width="100%" alt="🎓 Formação acadêmica"/>
+</p>
+
+#### 📄 Publicações
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/pt/pub-1.svg" width="100%" alt="2021: Internet das Coisas e Visão Computacional: uma revisão da literatura"/></td>
+    <td width="50%"><img src="assets/pt/pub-2.svg" width="100%" alt="2020: A perspectiva dos universitários da computação sobre aulas remotas síncronas na pandemia"/></td>
+  </tr>
+</table>
+
+#### 🌍 Idiomas
+
+<p align="center">
+  <img src="assets/pt/idiomas.svg" width="100%" alt="🌍 Idiomas"/>
+</p>
+
+<img src="assets/pt/titulo-aprendizado.svg" width="100%" alt="Aprendizado e certificações"/>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Nível%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil no Microsoft Learn, Nível 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Nível%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil no Microsoft Learn, Nível 6"/></a>
+</p>
+
+<p align="center">
+  <b>214 selos</b> de módulos concluídos &nbsp;·&nbsp; <b>53 troféus</b> de roteiros de aprendizagem<br/>
+  <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, desenvolvimento web, C# e segurança, conformidade e identidade da Microsoft.</sub>
+</p>
+
+<sub>Perfil com Power Platform, Dynamics 365 e Power BI: nível 12, 192 selos e 48 troféus, conclusões anteriores registradas nessa conta em 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">ver</a>). Perfil com desenvolvimento web, C# e segurança: nível 6, 22 selos e 5 troféus (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">ver</a>). Números de 15/10/2026.</sub>
+
+<img src="assets/pt/titulo-contato.svg" width="100%" alt="Vamos conversar"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/pt/rodape.svg" width="100%" alt="Obrigado pela visita · vamos construir algo juntos"/>
+</p>
+
+</details>
+
+<details name="lang">
+<summary><img src="assets/lang/ar-off.svg" height="46" alt="العربية"/></summary>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes CV"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ملف Microsoft Learn, المستوى 12"/></a>
+</p>
+
+<div dir="rtl" lang="ar">
+
+<img src="assets/ar/titulo-sobre.svg" width="100%" alt="نبذة عني"/>
+
+مهندس برمجيات أول متخصص في **.NET** و**Angular**، أبني أنظمة مؤسسية عالية الأداء. أعمل من البداية إلى النهاية، من قاعدة البيانات إلى الواجهة، مع اهتمام بـ**الأداء والموثوقية وتجربة المستخدم**. أحب التسليم والقياس والتطوير المستمر.
+
+<table dir="rtl">
+  <tr>
+    <td width="33%" valign="top"><b>🏢 الأنظمة المؤسسية</b><br/>تطبيقات أعمال ذات قواعد معقدة وتكاملات وبيانات كثيرة.</td>
+    <td width="33%" valign="top"><b>☁️ السحابة وDevOps والعمارة</b><br/>مسارات آلية وتسليم مستمر وعمارة مصممة للتوسع.</td>
+    <td width="33%" valign="top"><b>🌱 التعلّم المستمر</b><br/>مسارات وشهادات Microsoft ومشاريع حقيقية للتطبيق.</td>
+  </tr>
+</table>
+
+<img src="assets/ar/titulo-numeros.svg" width="100%" alt="بالأرقام"/>
+
+<p align="center">
+  <img src="assets/ar/kpis.svg" width="100%" alt="530 إيداعًا و110 طلبات دمج و898 إنجازًا في 2026 و214 شارة في Microsoft Learn"/>
+</p>
+
+<p align="center"><sub>عمليات الإيداع وطلبات الدمج من مستودعات الشركة (Azure DevOps) من يوليو 2025 إلى أكتوبر 2026. الإنجازات هي عناصر مكتملة في Azure Boards خلال 2026.</sub></p>
+
+<img src="assets/ar/titulo-stack.svg" width="100%" alt="التقنيات والأدوات"/>
+
+<p align="center">
+  <img src="assets/ar/stack.svg" width="100%" alt="التقنيات والأدوات"/>
+</p>
+
+<img src="assets/ar/titulo-stats.svg" width="100%" alt="إحصاءات GitHub"/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=ar&cache_seconds=14400&v=4" alt="إحصاءات GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=ar&cache_seconds=14400&v=4" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=ar&v=4" alt="Contribution streak"/>
+</p>
+
+<img src="assets/ar/titulo-projetos.svg" width="100%" alt="مشاريع مميزة"/>
+
+<table dir="rtl">
+  <tr>
+    <td width="50%"><img src="assets/ar/projeto-1.svg" width="100%" alt="تطبيق الساعات الإضافية"/></td>
+    <td width="50%"><img src="assets/ar/projeto-2.svg" width="100%" alt="بوابة إيصالات الدفع"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/ar/projeto-3.svg" width="100%" alt="منصة الإدارة المؤسسية"/></td>
+    <td width="50%"><img src="assets/ar/projeto-4.svg" width="100%" alt="واجهات برمجية عالية الأداء"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/ar/projeto-5.svg" width="100%" alt="أتمتة العمليات والنشر"/></td>
+    <td width="50%"><img src="assets/ar/projeto-6.svg" width="100%" alt="المؤشرات وذكاء الأعمال"/></td>
+  </tr>
+</table>
+
+<img src="assets/ar/titulo-academico.svg" width="100%" alt="النشاط الأكاديمي والبحث"/>
+
+<p align="center">
+  <img src="assets/ar/pesquisa.svg" width="100%" alt="اكتشاف الشذوذ في الأنظمة الموزعة باستخدام تعلّم آلي قابل للتفسير"/>
+</p>
+
+#### 🎓 التعليم
+
+<p align="center">
+  <img src="assets/ar/formacao.svg" width="100%" alt="🎓 التعليم"/>
+</p>
+
+#### 📄 المنشورات
+
+<table dir="rtl">
+  <tr>
+    <td width="50%"><img src="assets/ar/pub-1.svg" width="100%" alt="2021: إنترنت الأشياء والرؤية الحاسوبية: مراجعة للأدبيات"/></td>
+    <td width="50%"><img src="assets/ar/pub-2.svg" width="100%" alt="2020: منظور طلاب الحوسبة الجامعيين حول الدروس عن بُعد المتزامنة في الجائحة"/></td>
+  </tr>
+</table>
+
+#### 🌍 اللغات
+
+<p align="center">
+  <img src="assets/ar/idiomas.svg" width="100%" alt="🌍 اللغات"/>
+</p>
+
+<img src="assets/ar/titulo-aprendizado.svg" width="100%" alt="التعلّم والشهادات"/>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ملف Microsoft Learn, المستوى 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="ملف Microsoft Learn, المستوى 6"/></a>
+</p>
+
+<p align="center">
+  <b>214 شارة</b> لوحدات مكتملة &nbsp;·&nbsp; <b>53 كأسًا</b> لمسارات التعلّم<br/>
+  <sub>Power Platform وPower Automate وDynamics 365 وCopilot وPower BI وتطوير الويب وC# وأمن Microsoft والامتثال والهوية.</sub>
+</p>
+
+<sub>الملف الذي يضم Power Platform وDynamics 365 وPower BI: المستوى 12 و192 شارة و48 كأسًا، وقد سُجّلت الإنجازات السابقة في هذا الحساب بتاريخ 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">عرض</a>). الملف الذي يضم تطوير الويب وC# والأمن: المستوى 6 و22 شارة و5 كؤوس (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">عرض</a>). الأرقام بتاريخ 15/10/2026.</sub>
+
+<img src="assets/ar/titulo-contato.svg" width="100%" alt="لنتحدث"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
+</p>
+
+</div>
+
+<p align="center">
+  <img src="assets/ar/rodape.svg" width="100%" alt="شكرًا على الزيارة · لنبنِ شيئًا معًا"/>
+</p>
+
+</details>
+
+<details name="lang">
+<summary><img src="assets/lang/fr-off.svg" height="46" alt="Français"/></summary>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes CV"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Niveau%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Profil Microsoft Learn, Niveau 12"/></a>
+</p>
+
+<img src="assets/fr/titulo-sobre.svg" width="100%" alt="À propos"/>
+
+Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construis des systèmes d'entreprise hautes performances. Je travaille de bout en bout, de la base de données à l'interface, avec le souci de la **performance, de la fiabilité et de l'expérience utilisateur**. J'aime livrer, mesurer et progresser.
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>🏢 Systèmes d'entreprise</b><br/>Applications métier avec règles complexes, intégrations et beaucoup de données.</td>
+    <td width="33%" valign="top"><b>☁️ Cloud, DevOps et architecture</b><br/>Pipelines, livraison continue et architecture pensée pour passer à l'échelle.</td>
+    <td width="33%" valign="top"><b>🌱 Apprentissage continu</b><br/>Parcours et certifications Microsoft, et projets réels pour pratiquer.</td>
+  </tr>
+</table>
+
+<img src="assets/fr/titulo-numeros.svg" width="100%" alt="En chiffres"/>
+
+<p align="center">
+  <img src="assets/fr/kpis.svg" width="100%" alt="530 commits, 110 pull requests, 898 livraisons en 2026 et 214 badges Learn"/>
+</p>
+
+<p align="center"><sub>Commits et pull requests de dépôts d'entreprise (Azure DevOps), de juil. 2025 à oct. 2026. Les livraisons sont les éléments terminés dans Azure Boards en 2026.</sub></p>
+
+<img src="assets/fr/titulo-stack.svg" width="100%" alt="Technologies et outils"/>
+
+<p align="center">
+  <img src="assets/fr/stack.svg" width="100%" alt="Technologies et outils"/>
+</p>
+
+<img src="assets/fr/titulo-stats.svg" width="100%" alt="Statistiques GitHub"/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=fr&cache_seconds=14400&v=4" alt="Statistiques GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=fr&cache_seconds=14400&v=4" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=fr&v=4" alt="Contribution streak"/>
+</p>
+
+<img src="assets/fr/titulo-projetos.svg" width="100%" alt="Projets en vedette"/>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/fr/projeto-1.svg" width="100%" alt="Application d'heures supplémentaires"/></td>
+    <td width="50%"><img src="assets/fr/projeto-2.svg" width="100%" alt="Portail de justificatifs de paiement"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/fr/projeto-3.svg" width="100%" alt="Plateforme de gestion d'entreprise"/></td>
+    <td width="50%"><img src="assets/fr/projeto-4.svg" width="100%" alt="API hautes performances"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/fr/projeto-5.svg" width="100%" alt="Automatisation des processus et déploiements"/></td>
+    <td width="50%"><img src="assets/fr/projeto-6.svg" width="100%" alt="Indicateurs et Business Intelligence"/></td>
+  </tr>
+</table>
+
+<img src="assets/fr/titulo-academico.svg" width="100%" alt="Activité académique et recherche"/>
+
+<p align="center">
+  <img src="assets/fr/pesquisa.svg" width="100%" alt="Détection d'anomalies dans les systèmes distribués par apprentissage automatique explicable"/>
+</p>
+
+#### 🎓 Formation
+
+<p align="center">
+  <img src="assets/fr/formacao.svg" width="100%" alt="🎓 Formation"/>
+</p>
+
+#### 📄 Publications
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/fr/pub-1.svg" width="100%" alt="2021: Internet des objets et vision par ordinateur : une revue de la littérature"/></td>
+    <td width="50%"><img src="assets/fr/pub-2.svg" width="100%" alt="2020: Le point de vue des étudiants en informatique sur les cours à distance synchrones en pandémie"/></td>
+  </tr>
+</table>
+
+#### 🌍 Langues
+
+<p align="center">
+  <img src="assets/fr/idiomas.svg" width="100%" alt="🌍 Langues"/>
+</p>
+
+<img src="assets/fr/titulo-aprendizado.svg" width="100%" alt="Apprentissage et certifications"/>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Niveau%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Profil Microsoft Learn, Niveau 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Niveau%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Profil Microsoft Learn, Niveau 6"/></a>
+</p>
+
+<p align="center">
+  <b>214 badges</b> de modules terminés &nbsp;·&nbsp; <b>53 trophées</b> de parcours d'apprentissage<br/>
+  <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, développement web, C# et sécurité, conformité et identité Microsoft.</sub>
+</p>
+
+<sub>Profil avec Power Platform, Dynamics 365 et Power BI : niveau 12, 192 badges et 48 trophées, réalisations antérieures enregistrées sur ce compte le 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">voir</a>). Profil avec développement web, C# et sécurité : niveau 6, 22 badges et 5 trophées (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">voir</a>). Chiffres au 15/10/2026.</sub>
+
+<img src="assets/fr/titulo-contato.svg" width="100%" alt="Échangeons"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/fr/rodape.svg" width="100%" alt="Merci de votre visite · construisons quelque chose ensemble"/>
+</p>
+
+</details>
+
+<details name="lang">
+<summary><img src="assets/lang/ru-off.svg" height="46" alt="Русский"/></summary>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes CV"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Профиль Microsoft Learn, Уровень 12"/></a>
+</p>
+
+<img src="assets/ru/titulo-sobre.svg" width="100%" alt="Обо мне"/>
+
+Старший инженер-программист, специализируюсь на **.NET** и **Angular**, создаю высокопроизводительные корпоративные системы. Работаю от начала до конца, от базы данных до интерфейса, с вниманием к **производительности, надёжности и удобству пользователей**. Люблю доводить дело до результата, измерять и совершенствоваться.
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>🏢 Корпоративные системы</b><br/>Бизнес-приложения со сложными правилами, интеграциями и большим объёмом данных.</td>
+    <td width="33%" valign="top"><b>☁️ Облако, DevOps и архитектура</b><br/>Конвейеры, непрерывная поставка и архитектура, рассчитанная на рост.</td>
+    <td width="33%" valign="top"><b>🌱 Постоянное обучение</b><br/>Учебные курсы и сертификаты Microsoft, а также реальные проекты для практики.</td>
+  </tr>
+</table>
+
+<img src="assets/ru/titulo-numeros.svg" width="100%" alt="В цифрах"/>
+
+<p align="center">
+  <img src="assets/ru/kpis.svg" width="100%" alt="530 коммитов, 110 pull request'ов, 898 результатов в 2026 и 214 значков Learn"/>
+</p>
+
+<p align="center"><sub>Коммиты и pull request'ы из корпоративных репозиториев (Azure DevOps) с июля 2025 по октябрь 2026. Результаты — завершённые элементы в Azure Boards за 2026 год.</sub></p>
+
+<img src="assets/ru/titulo-stack.svg" width="100%" alt="Технологии и инструменты"/>
+
+<p align="center">
+  <img src="assets/ru/stack.svg" width="100%" alt="Технологии и инструменты"/>
+</p>
+
+<img src="assets/ru/titulo-stats.svg" width="100%" alt="Статистика GitHub"/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=ru&cache_seconds=14400&v=4" alt="Статистика GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=ru&cache_seconds=14400&v=4" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=ru&v=4" alt="Contribution streak"/>
+</p>
+
+<img src="assets/ru/titulo-projetos.svg" width="100%" alt="Избранные проекты"/>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/ru/projeto-1.svg" width="100%" alt="Приложение для сверхурочных часов"/></td>
+    <td width="50%"><img src="assets/ru/projeto-2.svg" width="100%" alt="Портал платёжных подтверждений"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/ru/projeto-3.svg" width="100%" alt="Платформа корпоративного управления"/></td>
+    <td width="50%"><img src="assets/ru/projeto-4.svg" width="100%" alt="Высокопроизводительные API"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/ru/projeto-5.svg" width="100%" alt="Автоматизация процессов и деплоев"/></td>
+    <td width="50%"><img src="assets/ru/projeto-6.svg" width="100%" alt="Показатели и бизнес-аналитика"/></td>
+  </tr>
+</table>
+
+<img src="assets/ru/titulo-academico.svg" width="100%" alt="Академическая деятельность и исследования"/>
+
+<p align="center">
+  <img src="assets/ru/pesquisa.svg" width="100%" alt="Обнаружение аномалий в распределённых системах с помощью объяснимого машинного обучения"/>
+</p>
+
+#### 🎓 Образование
+
+<p align="center">
+  <img src="assets/ru/formacao.svg" width="100%" alt="🎓 Образование"/>
+</p>
+
+#### 📄 Публикации
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/ru/pub-1.svg" width="100%" alt="2021: Интернет вещей и компьютерное зрение: обзор литературы"/></td>
+    <td width="50%"><img src="assets/ru/pub-2.svg" width="100%" alt="2020: Взгляд студентов-программистов на синхронные дистанционные занятия в пандемию"/></td>
+  </tr>
+</table>
+
+#### 🌍 Языки
+
+<p align="center">
+  <img src="assets/ru/idiomas.svg" width="100%" alt="🌍 Языки"/>
+</p>
+
+<img src="assets/ru/titulo-aprendizado.svg" width="100%" alt="Обучение и сертификаты"/>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Профиль Microsoft Learn, Уровень 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Профиль Microsoft Learn, Уровень 6"/></a>
+</p>
+
+<p align="center">
+  <b>214 значков</b> за пройденные модули &nbsp;·&nbsp; <b>53 трофея</b> за учебные курсы<br/>
+  <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, веб-разработка, C# и безопасность, соответствие требованиям и идентификация Microsoft.</sub>
+</p>
+
+<sub>Профиль с Power Platform, Dynamics 365 и Power BI: уровень 12, 192 значка и 48 трофеев, ранее пройденные курсы зарегистрированы в этом аккаунте 29.06.2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">открыть</a>). Профиль с веб-разработкой, C# и безопасностью: уровень 6, 22 значка и 5 трофеев (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">открыть</a>). Данные на 15.10.2026.</sub>
+
+<img src="assets/ru/titulo-contato.svg" width="100%" alt="Давайте поговорим"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/ru/rodape.svg" width="100%" alt="Спасибо за визит · давайте создадим что-нибудь вместе"/>
+</p>
+
+</details>
+
+<details name="lang" open>
+<summary><img src="assets/lang/en-on.svg" height="46" alt="English"/></summary>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -98,11 +575,6 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
   <img src="assets/en/idiomas.svg" width="100%" alt="🌍 Languages"/>
 </p>
 
-<p align="center">
-  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-Full%20CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
-  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0009--1456--9242-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"/></a>
-</p>
-
 <img src="assets/en/titulo-aprendizado.svg" width="100%" alt="Learning and certifications"/>
 
 <p align="center">
@@ -115,7 +587,27 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
   <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, web development, C# and Microsoft security, compliance and identity.</sub>
 </p>
 
-#### 🏅 Featured badges
+<sub>Profile with Power Platform, Dynamics 365 and Power BI: level 12, 192 badges and 48 trophies, earlier completions registered on that account on 29 Jun 2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">view</a>). Profile with web development, C# and security: level 6, 22 badges and 5 trophies (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">view</a>). Figures as of 15 Oct 2026.</sub>
+
+<img src="assets/en/titulo-contato.svg" width="100%" alt="Let's talk"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/en/rodape.svg" width="100%" alt="Thanks for visiting · let's build something together"/>
+</p>
+
+</details>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="assets/titulo-learn.svg" width="100%" alt="Microsoft Learn"/></a>
+</p>
+
+<p align="center"><sub>🏅 145 &nbsp;·&nbsp; 🏆 39</sub></p>
 
 <p align="center">
   <img src="https://learn.microsoft.com/en-us/training/achievements/csharp-write-first.svg" width="60" height="60" alt="Badge: csharp write first" title="csharp write first"/>
@@ -133,7 +625,7 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 </p>
 
 <details>
-<summary><b>View all badges</b> (145 distinct)</summary>
+<summary><b>🏅 145</b></summary>
 <br/>
 
 <p align="center">
@@ -274,8 +766,6 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 
 </details>
 
-#### 🏆 Featured trophies
-
 <p align="center">
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-the-concepts-of-security-compliance-and-identity.svg" width="72" height="72" alt="Trophy: describe the concepts of security compliance and identity" title="describe the concepts of security compliance and identity"/>
   <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-365-security-and-compliance-capabilities.svg" width="72" height="72" alt="Trophy: microsoft 365 security and compliance capabilities" title="microsoft 365 security and compliance capabilities"/>
@@ -290,7 +780,7 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 </p>
 
 <details>
-<summary><b>View all trophies</b> (39 distinct)</summary>
+<summary><b>🏆 39</b></summary>
 <br/>
 
 <p align="center">
@@ -326,17 +816,3 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 </p>
 
 </details>
-
-<sub>Profile with Power Platform, Dynamics 365 and Power BI: level 12, 192 badges and 48 trophies, earlier completions registered on that account on 29 Jun 2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">view</a>). Profile with web development, C# and security: level 6, 22 badges and 5 trophies (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">view</a>). Figures as of 15 Oct 2026.</sub>
-
-<img src="assets/en/titulo-contato.svg" width="100%" alt="Let's talk"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/walid-marghata-615636173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0009-1456-9242" target="_blank"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://lattes.cnpq.br/7568694202686117" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-1F4E79?style=for-the-badge" alt="Lattes"/></a>
-</p>
-
-<p align="center">
-  <img src="assets/en/rodape.svg" width="100%" alt="Thanks for visiting · let's build something together"/>
-</p>
