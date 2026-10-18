@@ -59,6 +59,10 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
   <img src="assets/en/github-streak.svg" width="49%" alt="GitHub statistics"/>
 </p>
 
+<p align="center">
+  <img src="assets/en/github-tech.svg" width="100%" alt="Technologies"/>
+</p>
+
 <img src="assets/en/titulo-projetos.svg" width="100%" alt="Featured projects"/>
 
 <table>
@@ -167,6 +171,10 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 
 <p align="center">
   <img src="assets/pt/github-streak.svg" width="49%" alt="Estatísticas do GitHub"/>
+</p>
+
+<p align="center">
+  <img src="assets/pt/github-tech.svg" width="100%" alt="Technologies"/>
 </p>
 
 <img src="assets/pt/titulo-projetos.svg" width="100%" alt="Projetos em destaque"/>
@@ -281,6 +289,10 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
   <img src="assets/ar/github-streak.svg" width="49%" alt="إحصاءات GitHub"/>
 </p>
 
+<p align="center">
+  <img src="assets/ar/github-tech.svg" width="100%" alt="Technologies"/>
+</p>
+
 <img src="assets/ar/titulo-projetos.svg" width="100%" alt="مشاريع مميزة"/>
 
 <table dir="rtl">
@@ -393,6 +405,10 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
   <img src="assets/fr/github-streak.svg" width="49%" alt="Statistiques GitHub"/>
 </p>
 
+<p align="center">
+  <img src="assets/fr/github-tech.svg" width="100%" alt="Technologies"/>
+</p>
+
 <img src="assets/fr/titulo-projetos.svg" width="100%" alt="Projets en vedette"/>
 
 <table>
@@ -501,6 +517,10 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 
 <p align="center">
   <img src="assets/ru/github-streak.svg" width="49%" alt="Статистика GitHub"/>
+</p>
+
+<p align="center">
+  <img src="assets/ru/github-tech.svg" width="100%" alt="Technologies"/>
 </p>
 
 <img src="assets/ru/titulo-projetos.svg" width="100%" alt="Избранные проекты"/>
