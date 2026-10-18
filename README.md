@@ -51,12 +51,11 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 <img src="assets/en/titulo-stats.svg" width="100%" alt="GitHub statistics"/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=en&cache_seconds=14400&v=4" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=en&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/en/atividade.svg" width="100%" alt="GitHub statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=en&v=4" alt="Contribution streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=en&cache_seconds=14400&v=4" alt="Top languages"/>
 </p>
 
 <img src="assets/en/titulo-projetos.svg" width="100%" alt="Featured projects"/>
@@ -161,12 +160,11 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <img src="assets/pt/titulo-stats.svg" width="100%" alt="Estatísticas do GitHub"/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&cache_seconds=14400&v=4" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/pt/atividade.svg" width="100%" alt="Estatísticas do GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=pt_BR&v=4" alt="Contribution streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=14400&v=4" alt="Top languages"/>
 </p>
 
 <img src="assets/pt/titulo-projetos.svg" width="100%" alt="Projetos em destaque"/>
@@ -273,12 +271,11 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <img src="assets/ar/titulo-stats.svg" width="100%" alt="إحصاءات GitHub"/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=ar&cache_seconds=14400&v=4" alt="إحصاءات GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=ar&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/ar/atividade.svg" width="100%" alt="إحصاءات GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=ar&v=4" alt="Contribution streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=ar&cache_seconds=14400&v=4" alt="Top languages"/>
 </p>
 
 <img src="assets/ar/titulo-projetos.svg" width="100%" alt="مشاريع مميزة"/>
@@ -385,12 +382,11 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <img src="assets/fr/titulo-stats.svg" width="100%" alt="Statistiques GitHub"/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=fr&cache_seconds=14400&v=4" alt="Statistiques GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=fr&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/fr/atividade.svg" width="100%" alt="Statistiques GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=fr&v=4" alt="Contribution streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=fr&cache_seconds=14400&v=4" alt="Top languages"/>
 </p>
 
 <img src="assets/fr/titulo-projetos.svg" width="100%" alt="Projets en vedette"/>
@@ -495,12 +491,11 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <img src="assets/ru/titulo-stats.svg" width="100%" alt="Статистика GitHub"/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WalidMarghata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=ru&cache_seconds=14400&v=4" alt="Статистика GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=ru&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/ru/atividade.svg" width="100%" alt="Статистика GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalidMarghata&theme=tokyonight&hide_border=true&locale=ru&v=4" alt="Contribution streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=ru&cache_seconds=14400&v=4" alt="Top languages"/>
 </p>
 
 <img src="assets/ru/titulo-projetos.svg" width="100%" alt="Избранные проекты"/>
