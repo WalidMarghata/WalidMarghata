@@ -110,16 +110,11 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 <img src="assets/en/titulo-aprendizado.svg" width="100%" alt="Learning and certifications"/>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn profile, Level 12"/></a>
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn profile, Level 6"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="assets/en/learn-p2.svg" width="49%" alt="Microsoft Learn profile, Level 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="assets/en/learn-p1.svg" width="49%" alt="Microsoft Learn profile, Level 6"/></a>
 </p>
 
-<p align="center">
-  <b>214 badges</b> for completed modules &nbsp;·&nbsp; <b>53 trophies</b> for learning paths<br/>
-  <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, web development, C# and Microsoft security, compliance and identity.</sub>
-</p>
-
-<sub>Profile with Power Platform, Dynamics 365 and Power BI: level 12, 192 badges and 48 trophies, earlier completions registered on that account on 29 Jun 2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">view</a>). Profile with web development, C# and security: level 6, 22 badges and 5 trophies (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">view</a>). Figures as of 15 Oct 2026.</sub>
+<p align="center"><sub><b>214 badges</b> for completed modules &nbsp;·&nbsp; <b>53 trophies</b> for learning paths</sub></p>
 
 
 </details>
@@ -224,16 +219,11 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <img src="assets/pt/titulo-aprendizado.svg" width="100%" alt="Aprendizado e certificações"/>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Nível%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil no Microsoft Learn, Nível 12"/></a>
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Nível%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil no Microsoft Learn, Nível 6"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="assets/pt/learn-p2.svg" width="49%" alt="Perfil no Microsoft Learn, Nível 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="assets/pt/learn-p1.svg" width="49%" alt="Perfil no Microsoft Learn, Nível 6"/></a>
 </p>
 
-<p align="center">
-  <b>214 selos</b> de módulos concluídos &nbsp;·&nbsp; <b>53 troféus</b> de roteiros de aprendizagem<br/>
-  <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, desenvolvimento web, C# e segurança, conformidade e identidade da Microsoft.</sub>
-</p>
-
-<sub>Perfil com Power Platform, Dynamics 365 e Power BI: nível 12, 192 selos e 48 troféus, conclusões anteriores registradas nessa conta em 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">ver</a>). Perfil com desenvolvimento web, C# e segurança: nível 6, 22 selos e 5 troféus (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">ver</a>). Números de 15/10/2026.</sub>
+<p align="center"><sub><b>214 selos</b> de módulos concluídos &nbsp;·&nbsp; <b>53 troféus</b> de roteiros de aprendizagem</sub></p>
 
 
 </details>
@@ -340,16 +330,11 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <img src="assets/ar/titulo-aprendizado.svg" width="100%" alt="التعلّم والشهادات"/>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ملف Microsoft Learn, المستوى 12"/></a>
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="ملف Microsoft Learn, المستوى 6"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="assets/ar/learn-p2.svg" width="49%" alt="ملف Microsoft Learn, المستوى 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="assets/ar/learn-p1.svg" width="49%" alt="ملف Microsoft Learn, المستوى 6"/></a>
 </p>
 
-<p align="center">
-  <b>214 شارة</b> لوحدات مكتملة &nbsp;·&nbsp; <b>53 كأسًا</b> لمسارات التعلّم<br/>
-  <sub>Power Platform وPower Automate وDynamics 365 وCopilot وPower BI وتطوير الويب وC# وأمن Microsoft والامتثال والهوية.</sub>
-</p>
-
-<sub>الملف الذي يضم Power Platform وDynamics 365 وPower BI: المستوى 12 و192 شارة و48 كأسًا، وقد سُجّلت الإنجازات السابقة في هذا الحساب بتاريخ 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">عرض</a>). الملف الذي يضم تطوير الويب وC# والأمن: المستوى 6 و22 شارة و5 كؤوس (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">عرض</a>). الأرقام بتاريخ 15/10/2026.</sub>
+<p align="center"><sub><b>214 شارة</b> لوحدات مكتملة &nbsp;·&nbsp; <b>53 كأسًا</b> لمسارات التعلّم</sub></p>
 
 
 </div>
@@ -456,16 +441,11 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <img src="assets/fr/titulo-aprendizado.svg" width="100%" alt="Apprentissage et certifications"/>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Niveau%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Profil Microsoft Learn, Niveau 12"/></a>
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Niveau%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Profil Microsoft Learn, Niveau 6"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="assets/fr/learn-p2.svg" width="49%" alt="Profil Microsoft Learn, Niveau 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="assets/fr/learn-p1.svg" width="49%" alt="Profil Microsoft Learn, Niveau 6"/></a>
 </p>
 
-<p align="center">
-  <b>214 badges</b> de modules terminés &nbsp;·&nbsp; <b>53 trophées</b> de parcours d'apprentissage<br/>
-  <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, développement web, C# et sécurité, conformité et identité Microsoft.</sub>
-</p>
-
-<sub>Profil avec Power Platform, Dynamics 365 et Power BI : niveau 12, 192 badges et 48 trophées, réalisations antérieures enregistrées sur ce compte le 29/06/2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">voir</a>). Profil avec développement web, C# et sécurité : niveau 6, 22 badges et 5 trophées (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">voir</a>). Chiffres au 15/10/2026.</sub>
+<p align="center"><sub><b>214 badges</b> de modules terminés &nbsp;·&nbsp; <b>53 trophées</b> de parcours d'apprentissage</sub></p>
 
 
 </details>
@@ -570,16 +550,11 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <img src="assets/ru/titulo-aprendizado.svg" width="100%" alt="Обучение и сертификаты"/>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%2012-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Профиль Microsoft Learn, Уровень 12"/></a>
-  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-Level%206-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Профиль Microsoft Learn, Уровень 6"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/" target="_blank"><img src="assets/ru/learn-p2.svg" width="49%" alt="Профиль Microsoft Learn, Уровень 12"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/" target="_blank"><img src="assets/ru/learn-p1.svg" width="49%" alt="Профиль Microsoft Learn, Уровень 6"/></a>
 </p>
 
-<p align="center">
-  <b>214 значков</b> за пройденные модули &nbsp;·&nbsp; <b>53 трофея</b> за учебные курсы<br/>
-  <sub>Power Platform, Power Automate, Dynamics 365, Copilot, Power BI, веб-разработка, C# и безопасность, соответствие требованиям и идентификация Microsoft.</sub>
-</p>
-
-<sub>Профиль с Power Platform, Dynamics 365 и Power BI: уровень 12, 192 значка и 48 трофеев, ранее пройденные курсы зарегистрированы в этом аккаунте 29.06.2026 (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-0755/">открыть</a>). Профиль с веб-разработкой, C# и безопасностью: уровень 6, 22 значка и 5 трофеев (<a href="https://learn.microsoft.com/pt-br/users/walidmarghata-7262/">открыть</a>). Данные на 15.10.2026.</sub>
+<p align="center"><sub><b>214 значков</b> за пройденные модули &nbsp;·&nbsp; <b>53 трофея</b> за учебные курсы</sub></p>
 
 
 </details>
