@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Most Used Languages">
+  <style>.t{font:600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Tahoma, Arial, sans-serif;fill:#70a5fd}.b{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Tahoma, Arial, sans-serif;fill:#38bdae}</style>
+  <rect x=".5" y=".5" rx="4.5" width="494" height="194" fill="#1a1b27"/>
+  <text x="25" y="35" text-anchor="start" class="t">Most Used Languages</text>
+  <clipPath id="c"><rect x="25" y="52" width="445" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect x="25.0" y="52" width="223.4" height="8" fill="#3178c6"/>
+    <rect x="248.4" y="52" width="72.1" height="8" fill="#336790"/>
+    <rect x="320.5" y="52" width="68.5" height="8" fill="#e34c26"/>
+    <rect x="389.0" y="52" width="46.8" height="8" fill="#f1e05a"/>
+    <rect x="435.8" y="52" width="21.9" height="8" fill="#178600"/>
+    <rect x="457.7" y="52" width="12.3" height="8" fill="#663399"/>
+  </g>
+  <circle cx="30" cy="91" r="5" fill="#3178c6"/>
+  <text x="45" y="95" text-anchor="start" class="b">TypeScript 48.95%</text>
+  <circle cx="265" cy="91" r="5" fill="#336790"/>
+  <text x="280" y="95" text-anchor="start" class="b">SQL 15.79%</text>
+  <circle cx="30" cy="123" r="5" fill="#e34c26"/>
+  <text x="45" y="127" text-anchor="start" class="b">HTML 15.01%</text>
+  <circle cx="265" cy="123" r="5" fill="#f1e05a"/>
+  <text x="280" y="127" text-anchor="start" class="b">JavaScript 10.26%</text>
+  <circle cx="30" cy="155" r="5" fill="#178600"/>
+  <text x="45" y="159" text-anchor="start" class="b">C# 4.80%</text>
+  <circle cx="265" cy="155" r="5" fill="#663399"/>
+  <text x="280" y="159" text-anchor="start" class="b">CSS 2.69%</text>
+</svg>

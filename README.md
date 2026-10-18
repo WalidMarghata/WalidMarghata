@@ -51,11 +51,12 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 <img src="assets/en/titulo-stats.svg" width="100%" alt="GitHub statistics"/>
 
 <p align="center">
-  <img src="assets/en/atividade.svg" width="100%" alt="GitHub statistics"/>
+  <img src="assets/en/github-stats.svg" width="49%" alt="GitHub statistics"/>
+  <img src="assets/en/github-langs.svg" width="49%" alt="GitHub statistics"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=en&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/en/github-streak.svg" width="49%" alt="GitHub statistics"/>
 </p>
 
 <img src="assets/en/titulo-projetos.svg" width="100%" alt="Featured projects"/>
@@ -160,11 +161,12 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <img src="assets/pt/titulo-stats.svg" width="100%" alt="Estatísticas do GitHub"/>
 
 <p align="center">
-  <img src="assets/pt/atividade.svg" width="100%" alt="Estatísticas do GitHub"/>
+  <img src="assets/pt/github-stats.svg" width="49%" alt="Estatísticas do GitHub"/>
+  <img src="assets/pt/github-langs.svg" width="49%" alt="Estatísticas do GitHub"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/pt/github-streak.svg" width="49%" alt="Estatísticas do GitHub"/>
 </p>
 
 <img src="assets/pt/titulo-projetos.svg" width="100%" alt="Projetos em destaque"/>
@@ -271,11 +273,12 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <img src="assets/ar/titulo-stats.svg" width="100%" alt="إحصاءات GitHub"/>
 
 <p align="center">
-  <img src="assets/ar/atividade.svg" width="100%" alt="إحصاءات GitHub"/>
+  <img src="assets/ar/github-stats.svg" width="49%" alt="إحصاءات GitHub"/>
+  <img src="assets/ar/github-langs.svg" width="49%" alt="إحصاءات GitHub"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=ar&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/ar/github-streak.svg" width="49%" alt="إحصاءات GitHub"/>
 </p>
 
 <img src="assets/ar/titulo-projetos.svg" width="100%" alt="مشاريع مميزة"/>
@@ -382,11 +385,12 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <img src="assets/fr/titulo-stats.svg" width="100%" alt="Statistiques GitHub"/>
 
 <p align="center">
-  <img src="assets/fr/atividade.svg" width="100%" alt="Statistiques GitHub"/>
+  <img src="assets/fr/github-stats.svg" width="49%" alt="Statistiques GitHub"/>
+  <img src="assets/fr/github-langs.svg" width="49%" alt="Statistiques GitHub"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=fr&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/fr/github-streak.svg" width="49%" alt="Statistiques GitHub"/>
 </p>
 
 <img src="assets/fr/titulo-projetos.svg" width="100%" alt="Projets en vedette"/>
@@ -491,11 +495,12 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <img src="assets/ru/titulo-stats.svg" width="100%" alt="Статистика GitHub"/>
 
 <p align="center">
-  <img src="assets/ru/atividade.svg" width="100%" alt="Статистика GitHub"/>
+  <img src="assets/ru/github-stats.svg" width="49%" alt="Статистика GitHub"/>
+  <img src="assets/ru/github-langs.svg" width="49%" alt="Статистика GitHub"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidMarghata&layout=compact&theme=tokyonight&hide_border=true&locale=ru&cache_seconds=14400&v=4" alt="Top languages"/>
+  <img src="assets/ru/github-streak.svg" width="49%" alt="Статистика GitHub"/>
 </p>
 
 <img src="assets/ru/titulo-projetos.svg" width="100%" alt="Избранные проекты"/>
