@@ -37,7 +37,7 @@ Senior software engineer focused on **.NET** and **Angular**, building high-perf
 <img src="assets/en/titulo-numeros.svg" width="100%" alt="By the numbers"/>
 
 <p align="center">
-  <img src="assets/en/kpis.svg" width="100%" alt="530 commits, 110 pull requests, 898 deliveries in 2026 and 214 Learn badges"/>
+  <img src="assets/en/kpis.svg" width="100%" alt="555 commits, 112 pull requests, 977 deliveries in 2026 and 214 Learn badges"/>
 </p>
 
 <p align="center"><sub>Commits and pull requests from corporate repositories (Azure DevOps), from Jul 2025 to Oct 2026. Deliveries are items completed in Azure Boards in 2026.</sub></p>
@@ -147,7 +147,7 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <img src="assets/pt/titulo-numeros.svg" width="100%" alt="Em números"/>
 
 <p align="center">
-  <img src="assets/pt/kpis.svg" width="100%" alt="530 commits, 110 pull requests, 898 entregas em 2026 e 214 selos no Microsoft Learn"/>
+  <img src="assets/pt/kpis.svg" width="100%" alt="555 commits, 112 pull requests, 977 entregas em 2026 e 214 selos no Microsoft Learn"/>
 </p>
 
 <p align="center"><sub>Commits e pull requests de repositórios corporativos (Azure DevOps), de jul/2025 a out/2026. Entregas são itens concluídos no Azure Boards em 2026.</sub></p>
@@ -259,7 +259,7 @@ Engenheiro de software sênior, com foco em **.NET** e **Angular**, construindo 
 <img src="assets/ar/titulo-numeros.svg" width="100%" alt="بالأرقام"/>
 
 <p align="center">
-  <img src="assets/ar/kpis.svg" width="100%" alt="530 إيداعًا و110 طلبات دمج و898 إنجازًا في 2026 و214 شارة في Microsoft Learn"/>
+  <img src="assets/ar/kpis.svg" width="100%" alt="555 إيداعًا و112 طلبات دمج و977 إنجازًا في 2026 و214 شارة في Microsoft Learn"/>
 </p>
 
 <p align="center"><sub>عمليات الإيداع وطلبات الدمج من مستودعات الشركة (Azure DevOps) من يوليو 2025 إلى أكتوبر 2026. الإنجازات هي عناصر مكتملة في Azure Boards خلال 2026.</sub></p>
@@ -371,7 +371,7 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <img src="assets/fr/titulo-numeros.svg" width="100%" alt="En chiffres"/>
 
 <p align="center">
-  <img src="assets/fr/kpis.svg" width="100%" alt="530 commits, 110 pull requests, 898 livraisons en 2026 et 214 badges Learn"/>
+  <img src="assets/fr/kpis.svg" width="100%" alt="555 commits, 112 pull requests, 977 livraisons en 2026 et 214 badges Learn"/>
 </p>
 
 <p align="center"><sub>Commits et pull requests de dépôts d'entreprise (Azure DevOps), de juil. 2025 à oct. 2026. Les livraisons sont les éléments terminés dans Azure Boards en 2026.</sub></p>
@@ -481,7 +481,7 @@ Ingénieur logiciel senior, spécialisé en **.NET** et **Angular**, je construi
 <img src="assets/ru/titulo-numeros.svg" width="100%" alt="В цифрах"/>
 
 <p align="center">
-  <img src="assets/ru/kpis.svg" width="100%" alt="530 коммитов, 110 pull request'ов, 898 результатов в 2026 и 214 значков Learn"/>
+  <img src="assets/ru/kpis.svg" width="100%" alt="555 коммитов, 112 pull request'ов, 977 результатов в 2026 и 214 значков Learn"/>
 </p>
 
 <p align="center"><sub>Коммиты и pull request'ы из корпоративных репозиториев (Azure DevOps) с июля 2025 по октябрь 2026. Результаты — завершённые элементы в Azure Boards за 2026 год.</sub></p>
