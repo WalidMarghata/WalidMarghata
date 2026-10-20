@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="583 коммитов, 113 pull request'ов, 1130 результатов в 2026 и 214 значков Learn">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="801 коммитов, 116 pull request'ов, 1130 результатов в 2026 и 214 значков Learn">
   <title>В цифрах</title>
   <style>.num{font:800 46px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;letter-spacing:-1px}.lab{font:700 14px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#e2e8f0;letter-spacing:.4px}.sub{font:500 12px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#94a3b8}</style>
   <g transform="translate(0.0 0)">
@@ -6,7 +6,7 @@
     <rect width="238.0" height="150" rx="18" fill="#0d1428"/>
     <rect width="238.0" height="150" rx="18" fill="none" stroke="url(#k0)" stroke-opacity="0.8" stroke-width="1.4"/>
     <rect x="0" y="0" width="238.0" height="5" rx="2.5" fill="url(#k0)"/>
-    <text x="119.0" y="74" text-anchor="middle" class="num" fill="url(#k0)">583</text>
+    <text x="119.0" y="74" text-anchor="middle" class="num" fill="url(#k0)">801</text>
     <text x="119.0" y="104" text-anchor="middle" class="lab">КОММИТЫ</text>
     <text x="119.0" y="124" text-anchor="middle" class="sub">июль 2025 – окт. 2026</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.6s" fill="freeze"/>
@@ -16,7 +16,7 @@
     <rect width="238.0" height="150" rx="18" fill="#0d1428"/>
     <rect width="238.0" height="150" rx="18" fill="none" stroke="url(#k1)" stroke-opacity="0.8" stroke-width="1.4"/>
     <rect x="0" y="0" width="238.0" height="5" rx="2.5" fill="url(#k1)"/>
-    <text x="119.0" y="74" text-anchor="middle" class="num" fill="url(#k1)">113</text>
+    <text x="119.0" y="74" text-anchor="middle" class="num" fill="url(#k1)">116</text>
     <text x="119.0" y="104" text-anchor="middle" class="lab">PULL REQUEST'Ы</text>
     <text x="119.0" y="124" text-anchor="middle" class="sub">слиты в рабочих проектах</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.6s" fill="freeze"/>
