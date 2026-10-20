@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="555 commits, 112 pull requests, 977 livraisons en 2026 et 214 badges Learn">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="555 commits, 112 pull requests, 1130 livraisons en 2026 et 214 badges Learn">
   <title>En chiffres</title>
   <style>.num{font:800 46px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;letter-spacing:-1px}.lab{font:700 14px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#e2e8f0;letter-spacing:.4px}.sub{font:500 12px 'Segoe UI', -apple-system, 'SF Pro Display', Roboto, 'Helvetica Neue', Arial, sans-serif;fill:#94a3b8}</style>
   <g transform="translate(0.0 0)">
@@ -26,7 +26,7 @@
     <rect width="238.0" height="150" rx="18" fill="#0d1428"/>
     <rect width="238.0" height="150" rx="18" fill="none" stroke="url(#k2)" stroke-opacity="0.8" stroke-width="1.4"/>
     <rect x="0" y="0" width="238.0" height="5" rx="2.5" fill="url(#k2)"/>
-    <text x="119.0" y="74" text-anchor="middle" class="num" fill="url(#k2)">977</text>
+    <text x="119.0" y="74" text-anchor="middle" class="num" fill="url(#k2)">1130</text>
     <text x="119.0" y="104" text-anchor="middle" class="lab">LIVRAISONS EN 2026</text>
     <text x="119.0" y="124" text-anchor="middle" class="sub">éléments terminés dans Azure Boards</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.6s" fill="freeze"/>
